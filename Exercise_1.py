@@ -2,6 +2,8 @@
 
 #Time complexity: worst case - O(logn), best case: O(1) if the ele is in mid
 #Space complexity: O(1)
+#Did this code successfully run on Leetcode : Yes
+#Any problem you faced while coding this : No
   
 # It returns location of x in given array arr  
 # if present, else returns -1 
